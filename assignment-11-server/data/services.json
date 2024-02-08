@@ -1,0 +1,56 @@
+[
+    {
+        "name":"Openings Explorer",
+        "course_id":"01",
+        "title": "Openings",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg8j4j0jIYqgzDYv16ZcggHCLkhWJzr2berQ&usqp=CAU",
+        "ratings": 4.5,
+        "description":"A chess opening or simply an opening is the initial stage of a chess game. It usually consists of established theory; the other phases are the middlegame and the endgame. Many opening sequences have standard names such as the 'Sicilian Defense'. The Oxford Companion to Chess lists 1,327 named openings and variants, and there are many others with varying degrees of common usage. Opening moves that are considered standard are referred to as , or simply book. When a game begins to deviate from known opening theory, the players are said to be .In some openings, lines have been worked out for over 30 moves, as in the classical King's Indian Defense and in the Najdorf variation of the Sicilian Defense. Professional chess players spend years studying openings, and continue doing so throughout their careers, as opening theory continues to evolve. Players at the club level also study openings but the importance of the opening phase is smaller there since games are rarely decided in the opening. The study of openings can become unbalanced if it is to the exclusion of tactical training and middlegame and endgame strategy. A new sequence of moves in the opening is referred to as a theoretical novelty. When kept secret until used in a competitive game, it is often known as a prepared variation, a powerful weapon in top-class competition.",
+        "price":"$40"
+    },
+    {
+        "name":"Middlegame Ideas",
+        "course_id":"02",
+        "title": "Middle Game",
+        "img":"https://thechessworld.com/wp-content/uploads/2011/05/middlegame-chess-quotes.png",
+        "ratings": 4.5,
+        "description":"There are a few factors that make the middlegame hard to define. For one, middlegames are difficult to study. Because middlegames are often messy and complex, with most (if not all) of the major and minor pieces still on the board, they don’t lend themselves to rigorous study or memorizable positions as with openings or endgames. The nature of the middlegame will follow naturally from each player’s opening strategy. This makes it hard to speak in general terms about middlegame strategy or middlegame principles. If one or both players have methodically advanced their pawn structures then the middlegame may revolve around relatively closed positions. In these cases, knights may prove invaluable for hopping over ranks of tightly linked pawns. Here, players may spend a long time maneuvering for advantageous positions before launching attacks. If the center is relatively free of pawns, however, then players may find themselves in an open game with wide open diagonals that favor bishops and queens. These games may end up being more aggressive, with both players sacrificing material for momentum.",
+        "price":"$70"
+    },
+    {
+        "name":"Endgame Mastery",
+        "course_id":"03",
+        "title": "Endgame",
+        "img":"https://thechessworld.com/wp-content/uploads/2018/10/10-tips-to-fix-chess-endgames.jpg",
+        "ratings": 4.5,
+        "description":"In chess and chess-like games, the endgame (or end game or ending) is the stage of the game when few pieces are left on the board. The line between middlegame and endgame is often not clear, and may occur gradually or with the quick exchange of a few pairs of pieces. The endgame, however, tends to have different characteristics from the middlegame, and the players have correspondingly different strategic concerns. In particular, pawns become more important as endgames often revolve around attempting to promote a pawn by advancing it to the eighth rank. The king, which has to be protected in the middlegame owing to the threat of checkmate, becomes a strong piece in the endgame. It can be brought to the center of the board and act as a useful attacking piece. The simplest endgames have been solved, that is, the outcome (win, loss, or draw) of best play by both sides is known, and textbooks and reference works teach the best play. Most endgames are not solved, and textbooks teach useful strategies and tactics for them. The body of chess theory devoted to endgames is known as endgame theory. Compared to chess opening theory, which changes frequently, giving way to middlegame positions that fall in and out of popularity, endgame theory is less subject to change. Many endgame studies have been composed, endgame positions which are solved by finding a win for White when there is no obvious way to win, or a draw when it seems White must lose. In some compositions, the starting position would be unlikely to occur in an actual game; but if the starting position is not so exotic, the composition is sometimes incorporated into endgame theory. Chess players classify endgames according to the type of pieces that remain.",
+        "price":"$55"
+    },
+    {
+        "name":"Start as Begginer",
+        "course_id":"04",
+        "title": "Starting with the Basics",
+        "img":"https://i.ytimg.com/vi/M9CwH47r6og/maxresdefault.jpg",
+        "ratings": 4.5,
+        "description":"A chess opening or simply an opening is the initial stage of a chess game. It usually consists of established theory; the other phases are the middlegame and the endgame. Many opening sequences have standard names such as the Sicilian Defense",
+        "price":"$50"
+    },
+    {
+        "name":"Hustle the 1500",
+        "course_id":"05",
+        "title": "1500 mastery",
+        "img":"https://images.chesscomfiles.com/uploads/lesson_course/58031a08-838d-11e8-9a58-fbe137fc039c.9032b4bd.png",
+        "ratings": 4.5,
+        "description":"In Intermediate Chess, you will expand your knowledge of tactics and strategies in the game of chess. Starting with opening goals, you will learn tactical motifs and strategies to employ through a chess game, as well as ideas to use when evaluating a board position. Concepts are explained through lessons, game studies, and videos. Games against increasingly difficult bots cap every chapter, culminating with a final game against your instructor. This course helps develop your concentration, logic, decision-making, planning, and self-discipline, and is designed for students with sound knowledge of the rules of chess and some knowledge of basic tactical and strategic ideas. A chess opening or simply an opening is the initial stage of a chess game. It usually consists of established theory; the other phases are the middlegame and the endgame. Many opening sequences have standard names such as the Sicilian Defense",
+        "price":"$70"
+    },
+    {
+        "name":"Break Through the 2000",
+        "course_id":"06", 
+        "title": "2000 mastery",
+        "img":"https://images.chesscomfiles.com/uploads/v1/article/26268.2f493380.668x375o.718d9e90b6b7@2x.png",
+        "ratings": 4.5,
+        "description":"A Master in chess is a player who is awarded a master title by the world chess organisation FIDE, or by a national chess organisation. The term was used for a long time to describe someone who was accepted as an expert player, but it now has an official meaning. Grandmaster is a chess title for even stronger players. The title comes from the word in Middle French: Grand maistre. It was the title given to the head of an Order of Knights, such as the Knights Templar or the Teutonic Knights.[1] Its first use in chess is a comment in the periodical Bell's Life (18 February 1838) referring to William Lewis as our past grandmaster.A chess opening or simply an opening is the initial stage of a chess game. It usually consists of established theory; the other phases are the middlegame and the endgame. Many opening sequences have standard names such as the Sicilian Defense.",
+        "price":"$80"
+    }
+]
